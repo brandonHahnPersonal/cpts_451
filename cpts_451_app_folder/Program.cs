@@ -25,14 +25,19 @@ namespace cpts_451_app_folder
             DisplayValue myDisplay = new DisplayValue(); //instatiate a new object of this class
             myDisplay.DisplayMessage(myText); //access the method
             myDisplay.DisplayMessage(changeInMethod);
+
+            Console.WriteLine(myDisplay.DisplayMessage(changeInMethod));
+            string returnString = myDisplay.DisplayMessage(myText);
+            Console.WriteLine(returnString);
+
         }
     }
 
     public class DisplayValue
     {
-        public void DisplayMessage(string myMessage)
+        public string DisplayMessage(string myMessage)
         {
-            Console.WriteLine(myMessage);
+            return myMessage + " this text was added in function/method";
         }
     }
 }
