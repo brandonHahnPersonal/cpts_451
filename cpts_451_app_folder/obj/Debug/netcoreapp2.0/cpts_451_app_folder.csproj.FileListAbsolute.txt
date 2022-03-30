@@ -1,0 +1,11 @@
+C:\Users\brand\Desktop\cpts_451\cpts_451_app_folder\bin\Debug\netcoreapp2.0\cpts_451_app_folder.deps.json
+C:\Users\brand\Desktop\cpts_451\cpts_451_app_folder\bin\Debug\netcoreapp2.0\cpts_451_app_folder.runtimeconfig.json
+C:\Users\brand\Desktop\cpts_451\cpts_451_app_folder\bin\Debug\netcoreapp2.0\cpts_451_app_folder.runtimeconfig.dev.json
+C:\Users\brand\Desktop\cpts_451\cpts_451_app_folder\bin\Debug\netcoreapp2.0\cpts_451_app_folder.dll
+C:\Users\brand\Desktop\cpts_451\cpts_451_app_folder\bin\Debug\netcoreapp2.0\cpts_451_app_folder.pdb
+C:\Users\brand\Desktop\cpts_451\cpts_451_app_folder\obj\Debug\netcoreapp2.0\cpts_451_app_folder.csprojAssemblyReference.cache
+C:\Users\brand\Desktop\cpts_451\cpts_451_app_folder\obj\Debug\netcoreapp2.0\cpts_451_app_folder.csproj.CoreCompileInputs.cache
+C:\Users\brand\Desktop\cpts_451\cpts_451_app_folder\obj\Debug\netcoreapp2.0\cpts_451_app_folder.AssemblyInfoInputs.cache
+C:\Users\brand\Desktop\cpts_451\cpts_451_app_folder\obj\Debug\netcoreapp2.0\cpts_451_app_folder.AssemblyInfo.cs
+C:\Users\brand\Desktop\cpts_451\cpts_451_app_folder\obj\Debug\netcoreapp2.0\cpts_451_app_folder.dll
+C:\Users\brand\Desktop\cpts_451\cpts_451_app_folder\obj\Debug\netcoreapp2.0\cpts_451_app_folder.pdb
