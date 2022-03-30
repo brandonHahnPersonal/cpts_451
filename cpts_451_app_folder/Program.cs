@@ -9,12 +9,25 @@ using System; //allows for the Console write
 /*Namespaces group different classes together*/
 namespace cpts_451_app_folder
 {
-    // OBJECTS are instances of CLASSES when the program runs
+    // OBJECTS are instances of CLASSES when the program runs.
+    //Classes are bluprints that describe actions
     class Program
     {
-        static void Main(string[] args)
+
+        private static string myText = "jello vorld"; // example of a variable
+
+        static void Main(string[] args) //main is a method
         {
-            Console.WriteLine("Hello World!");
+            DisplayValue myDisplay = new DisplayValue(); //instatiate a new object of this class
+            myDisplay.DisplayMessage(myText); //access the method
+        }
+    }
+
+    public class DisplayValue
+    {
+        public void DisplayMessage(string myMessage)
+        {
+            Console.WriteLine(myMessage);
         }
     }
 }
