@@ -15,6 +15,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\brand\Desktop\cpts_451\CPTS_451_yelp_application
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/brand/Desktop/cpts_451/CPTS_451_yelp_application/Pages/Business_Search_Page.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQnVzaW5lc3NfU2VhcmNoX1BhZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/brand/Desktop/cpts_451/CPTS_451_yelp_application/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
