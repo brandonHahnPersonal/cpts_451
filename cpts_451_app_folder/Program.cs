@@ -15,11 +15,16 @@ namespace cpts_451_app_folder
     {
 
         private static string myText = "jello vorld"; // example of a variable
+        private static string changeInMethod;
+
 
         static void Main(string[] args) //main is a method
         {
+
+            changeInMethod = "This string was created inside the method.";
             DisplayValue myDisplay = new DisplayValue(); //instatiate a new object of this class
             myDisplay.DisplayMessage(myText); //access the method
+            myDisplay.DisplayMessage(changeInMethod);
         }
     }
 
